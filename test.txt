@@ -1,8 +1,4 @@
 Hello
 This is hotfix
-||||||| merged common ancestors
-=======
-Hello
 This is issError
 This is issError2
->>>>>>> origin/issError
