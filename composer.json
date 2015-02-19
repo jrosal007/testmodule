@@ -1,0 +1,16 @@
+{
+  "name":"jrosal007/testmodule",
+  "type":"magento-module",
+  "license":"OSL-3.0",
+  "homepage":"https://github.com/jrosal007/testmodule",
+  "description":"testmodule",
+  "authors":[
+    {
+      "name":"Jerome Rosal",
+      "email":"jrosal007@gmail.com"
+    }
+  ],
+  "require":{
+    "magento-hackathon/magento-composer-installer":"*"
+  }
+}
